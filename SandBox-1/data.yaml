@@ -1,0 +1,12 @@
+names:
+- Speed Limit Signs
+nc: 1
+roboflow:
+  license: CC BY 4.0
+  project: sandbox-z8ocu
+  url: https://universe.roboflow.com/sandbox-berpo/sandbox-z8ocu/dataset/1
+  version: 1
+  workspace: sandbox-berpo
+test: ../test/images
+train: ../train/images
+val: ../valid/images
