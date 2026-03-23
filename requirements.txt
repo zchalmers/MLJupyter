@@ -1,0 +1,9 @@
+jupyterlab>=4.2
+numpy>=1.26
+opencv-python>=4.10
+torch>=2.5
+ultralytics>=8.3
+
+# Optional for the archived prototype notebook
+folium>=0.18
+pytesseract>=0.3
